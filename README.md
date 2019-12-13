@@ -1,7 +1,7 @@
 # GeoHam
 🗺️ UrbanHacks 2018 Winner! 🏆 Explore your community, even the parts not on Google Maps
 
-<img width="31%" src="https://github.com/qhyun2/GeoHam/raw/master/demo/gallery1.jpg"> <img width="31%" src="https://github.com/qhyun2/GeoHam/raw/master/demo/gallery2.jpg"><img width="31%" src="https://github.com/qhyun2/GeoHam/raw/master/demo/gallery3.jpg">
+<img width="31%" src="https://github.com/qhyun2/GeoHam/raw/master/demo/gallery1.jpg"> <img width="31%" src="https://github.com/qhyun2/GeoHam/raw/master/demo/gallery2.jpg"> <img width="31%" src="https://github.com/qhyun2/GeoHam/raw/master/demo/gallery3.jpg">
  
 ### [Devpost](https://devpost.com/software/geoham)
 

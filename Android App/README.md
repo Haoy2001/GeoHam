@@ -1,6 +1,3 @@
-# GeoHam
-🗺️ UrbanHacks 2018 Entry - Explore your community, even the parts not on Google Maps
-
 > ⚠️ This is a Hackathon entry for UrbanHacks, and was created in under 24 hours. The code in this repo is likely to be hacky and potentially unstable/insecure, so please be careful if forking this repo. [You can view the project's Devpost page here.](https://devpost.com/software/geoham)
 
 > 🏆 GeoHam won First Place at UrbanHacks!
@@ -35,6 +32,7 @@ We used Hamilton's Open Data to create our own API, which can be queried to get 
 > Getting the coloured pins on the map, and getting the map working in general was really cool. I also really like our score system. **-Hao**
 
 > I'm really proud that we managed to create something really good, even though it was out first time developing for Android. **-Miguel**
+
 ## What we learned
 > I learned the basics of Android Development, some of the challenges associated with it. **-Jack**
 
